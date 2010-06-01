@@ -26,3 +26,9 @@ or
 DELETE http://example.com/cache/custom_config
 
 To delete all the keys from custom_config (In the case your Cache engine supports namespacing)
+
+
+sams
+Tasks move operations to tasks and and be able to list whats there also
+
+
